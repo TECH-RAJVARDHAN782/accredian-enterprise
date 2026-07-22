@@ -46,7 +46,7 @@ npm -v
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/accredian-enterprise.git
+git clone https://github.com/TECH-RAJVARDHAN782/accredian-enterprise.git
 cd accredian-enterprise
 ```
 
@@ -107,10 +107,3 @@ The app includes a fully functional Next.js API route at `POST /api/leads` and `
 
 ---
 
-## 🚢 Deployment (Vercel)
-
-This application is ready for zero-config deployment on Vercel:
-
-1. Push your repository to GitHub.
-2. Visit [vercel.com/new](https://vercel.com/new) and import the repository.
-3. Keep default settings (`Framework Preset: Next.js`) and click **Deploy**.
